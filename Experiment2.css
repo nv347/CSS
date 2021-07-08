@@ -1,0 +1,31 @@
+h1 {
+color: red;
+font-size: 60 px;
+font-family: Times New Roman;
+text-indent: 100px;
+}
+ol {
+color: red;
+font-family: Times New Roman;
+}
+i {
+color: blue;
+font-style: Italic;
+}
+b {
+color: red;
+font-size: 20 px;
+}
+h2, h3 {
+color: green;
+font-family: Times New Roman;
+text-align: left;
+}
+p {
+text-align: justify;
+font-family: Arial;
+}
+ul {
+color: purple;
+font-style: italic;
+}
